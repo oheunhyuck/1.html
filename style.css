@@ -1,0 +1,33 @@
+
+
+
+.e{
+  color:powderblue;
+  font-size: 45px;
+  text-align: center;
+
+  border-bottom-width: 5px ;
+  border-bottom-style:solid;
+  border-bottom-color: gray;
+
+}
+.aa{
+  color:red;
+}
+#bb{
+  color: blue;
+}
+div{
+  color: gray;
+}
+div{
+  color: blue;
+}
+.cc{
+  color: red;
+  margin: 20px;
+
+}
+#ee{
+  width: 100px;
+}

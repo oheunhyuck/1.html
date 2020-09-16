@@ -1,0 +1,17 @@
+<<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <a class="aa" onclick="
+      fetch('html').then(function(a){
+        a.text().then(function(text){
+          document.querySelector('div').innerHTML=text;
+        })
+      });
+      ">HTML</a></li>
+      <div></div>
+  </body>
+</html>
